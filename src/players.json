@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Royce Lewis",
+    "position": "3B",
+    "pitcher": false
+  },
+  {
+    "id": 2,
+    "name": "Byron Buxton",
+    "position": "CF",
+    "pitcher": false
+  },
+  {
+    "id": 3,
+    "name": "Carlos Correa",
+    "position": "SS",
+    "pitcher": false
+  },
+  {
+    "id": 4,
+    "name": "Max Kepler",
+    "position": "RF",
+    "pitcher": false
+  },
+  {
+    "id": 5,
+    "name": "Jorge Polanco",
+    "position": "2B",
+    "pitcher": false
+  },
+  {
+    "id": 6,
+    "name": "Alex Kirilloff",
+    "position": "1B",
+    "pitcher": false
+  },
+  {
+    "id": 7,
+    "name": "Joey Gallo",
+    "position": "LF",
+    "pitcher": false
+  },
+  {
+    "id": 8,
+    "name": "Trevor Larnach",
+    "position": "LF",
+    "pitcher": false
+  },
+  {
+    "id": 9,
+    "name": "Ryan Jeffers",
+    "position": "C",
+    "pitcher": false
+  },
+  {
+    "id": 10,
+    "name": "Christian Vázquez",
+    "position": "C",
+    "pitcher": false
+  },
+  {
+    "id": 11,
+    "name": "Sonny Gray",
+    "position": "P",
+    "pitcher": true
+  },
+  {
+    "id": 12,
+    "name": "Joe Ryan",
+    "position": "P",
+    "pitcher": true
+  },
+  {
+    "id": 13,
+    "name": "Kenta Maeda",
+    "position": "P",
+    "pitcher": true
+  },
+  {
+    "id": 14,
+    "name": "Pablo López",
+    "position": "P",
+    "pitcher": true
+  },
+  {
+    "id": 15,
+    "name": "Bailey Ober",
+    "position": "P",
+    "pitcher": true
+  },
+  {
+    "id": 16,
+    "name": "Emilio Pagán",
+    "position": "P",
+    "pitcher": true
+  },
+  {
+    "id": 17,
+    "name": "Griffin Jax",
+    "position": "P",
+    "pitcher": true
+  },
+  {
+    "id": 18,
+    "name": "Caleb Thielbar",
+    "position": "P",
+    "pitcher": true
+  },
+  {
+    "id": 19,
+    "name": "Jhoan Durán",
+    "position": "P",
+    "pitcher": true
+  },
+  {
+    "id": 20,
+    "name": "Jorge López",
+    "position": "P",
+    "pitcher": true
+  }
+]
